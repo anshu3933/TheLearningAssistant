@@ -1,0 +1,11 @@
+langchain
+langsmith
+faiss-cpu
+python-docx
+PyPDF2
+mammoth
+sentence-transformers
+torch
+transformers
+openai
+streamlit
