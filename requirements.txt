@@ -9,3 +9,4 @@ torch
 transformers
 openai
 streamlit
+langchain-community
