@@ -10,3 +10,4 @@ transformers
 openai
 streamlit
 langchain-community
+streamlit_feedback
