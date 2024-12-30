@@ -9,7 +9,7 @@ torch
 transformers
 openai
 streamlit
-Streamline-feedback
+Streamlit-feedback
 Langchain-community
 python-docx
 PyPDF2
